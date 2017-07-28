@@ -13,17 +13,17 @@ npm test
 
 ## Design patterns implemented
 
-[ ] Singleton pattern
-[ ] Strategy pattern
-[ ] Proxy pattern
-[ ] Iterator pattern
-[ ] Publish-subscribe pattern
-[ ] Command pattern
-[ ] Composite pattern
-[ ] Template method pattern
-[ ] Flyweight pattern
-[ ] Chain of responsibility pattern
-[ ] Mediator pattern
-[ ] Decorator pattern
-[ ] State pattern
-[ ] Adapter pattern
+- [ ] Singleton pattern
+- [ ] Strategy pattern
+- [ ] Proxy pattern
+- [ ] Iterator pattern
+- [ ] Publish-subscribe pattern
+- [ ] Command pattern
+- [ ] Composite pattern
+- [ ] Template method pattern
+- [ ] Flyweight pattern
+- [ ] Chain of responsibility pattern
+- [ ] Mediator pattern
+- [ ] Decorator pattern
+- [ ] State pattern
+- [ ] Adapter pattern
